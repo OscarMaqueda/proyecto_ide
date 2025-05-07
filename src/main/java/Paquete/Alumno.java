@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 /**
- * Alumnos
+ * Clase creada destinado a los alumnos de la Web
  * @author Oscar Maqueda Baños
  * @version 1.0
  */
