@@ -1,6 +1,6 @@
 package Paquete;
 
-
+import java.util.ArrayList;
 
 /**
  * Main para probar el codigo y sus relaciones
