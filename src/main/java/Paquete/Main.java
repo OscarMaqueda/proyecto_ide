@@ -1,8 +1,12 @@
 package Paquete;
 
-import java.util.ArrayList;
 
 
+/**
+ * Main para probar el codigo y sus relaciones
+ * @author Oscar Maqueda Baños
+ * @version 1.0
+ */
 public class Main {
     public static void main(String[] args) {
         //CREAR LOS DIAS DE LAS ASIGNATURAS
